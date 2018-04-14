@@ -30,3 +30,8 @@ Now installing MetaMask
 - use the passphrase from ganache-cli
 - connect to port 8545
 - if working remotely, ensure port forwarding is enabled
+
+Now running the server `npm run dev`
+
+- the site is running in :3000
+- browsersync is running on :3001
