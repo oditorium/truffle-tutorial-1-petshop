@@ -35,3 +35,5 @@ Now running the server `npm run dev`
 
 - the site is running in :3000
 - browsersync is running on :3001
+
+FIN
