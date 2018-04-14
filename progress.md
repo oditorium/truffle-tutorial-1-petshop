@@ -24,3 +24,9 @@ Running `truffle test`
     ,truffle/Assert.sol:1349:13: Warning: Invoking events without "emit" prefix is deprecated.
                 TestEvent(false, message);
                 ^-----------------------^
+
+Now installing MetaMask
+
+- use the passphrase from ganache-cli
+- connect to port 8545
+- if working remotely, ensure port forwarding is enabled
