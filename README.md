@@ -1,3 +1,15 @@
+# Truffle Tutorial 1: Pet Shop
+
+That's a run through of the
+[Pet Shop Tutorial](http://truffleframework.com/tutorials/pet-shop)
+on the Truffle main site.
+
+_Note: this file only appears half way through, and up to now
+it is called `progress.md`. Sorry about that._
+
+
+## Progress
+
 Running `truffle test`
 
     Using network 'development'.
